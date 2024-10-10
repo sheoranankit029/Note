@@ -14,4 +14,4 @@
  😃
  😆
 
-[CLI commands](docs/cli.md)
+[CLI commands](Docs/Cli.md)
